@@ -873,7 +873,7 @@
     {
         "name": "Canberra",
         "species": "Koala",
-        "personality": "Sisterly (Uchi)",
+        "personality": "Sisterly",
         "gender": "Female",
         "birthday": {
             "month": 5,
@@ -990,7 +990,7 @@
     {
         "name": "Chai",
         "species": "Elephant",
-        "personality": "peppy",
+        "personality": "Peppy",
         "gender": "Female",
         "birthday": {
             "month": 3,
@@ -1003,7 +1003,7 @@
     {
         "name": "Charlise",
         "species": "Bear",
-        "personality": "Peppy*Sisterly (Uchi)*",
+        "personality": "Peppy",
         "gender": "Female",
         "birthday": {
             "month": 4,
@@ -1042,7 +1042,7 @@
     {
         "name": "Cherry",
         "species": "Dog",
-        "personality": "Sisterly (Uchi)",
+        "personality": "Sisterly",
         "gender": "Female",
         "birthday": {
             "month": 5,
@@ -1328,7 +1328,7 @@
     {
         "name": "Curlos",
         "species": "Sheep",
-        "personality": "Cranky  (Animal Forest e+)Smug (New Leaf)",
+        "personality": "Cranky",
         "gender": "Male",
         "birthday": {
             "month": 5,
@@ -1419,7 +1419,7 @@
     {
         "name": "Deirdre",
         "species": "Deer",
-        "personality": "Sisterly (Uchi)",
+        "personality": "Sisterly",
         "gender": "Female",
         "birthday": {
             "month": 5,
@@ -1484,7 +1484,7 @@
     {
         "name": "Diva",
         "species": "Frog",
-        "personality": "Sisterly (Uchi)",
+        "personality": "Sisterly",
         "gender": "Female",
         "birthday": {
             "month": 10,
@@ -1510,7 +1510,7 @@
     {
         "name": "Dobie",
         "species": "Wolf",
-        "personality": "Lazy (Animal Crossing)Cranky (New Leaf)",
+        "personality": "Lazy",
         "gender": "Male",
         "birthday": {
             "month": 2,
@@ -1614,7 +1614,7 @@
     {
         "name": "Ed",
         "species": "Horse",
-        "personality": "Jock (Animal Crossing, City Folk)Smug (New Leaf onwards)",
+        "personality": "Jock",
         "gender": "Male",
         "birthday": {
             "month": 9,
@@ -1809,7 +1809,7 @@
     {
         "name": "Flo",
         "species": "Penguin",
-        "personality": "Sisterly (Uchi)",
+        "personality": "Sisterly",
         "gender": "Female",
         "birthday": {
             "month": 9,
@@ -1913,7 +1913,7 @@
     {
         "name": "Frita",
         "species": "Sheep",
-        "personality": "Sisterly (Uchi)",
+        "personality": "Sisterly",
         "gender": "Female",
         "birthday": {
             "month": 7,
@@ -1939,7 +1939,7 @@
     {
         "name": "Fuchsia",
         "species": "Deer",
-        "personality": "Sisterly (Uchi)",
+        "personality": "Sisterly",
         "gender": "Female",
         "birthday": {
             "month": 9,
@@ -2212,7 +2212,7 @@
     {
         "name": "Harry",
         "species": "Hippo",
-        "personality": "Jock (Animal Forest e+)Cranky (City Folk onwards)",
+        "personality": "Jock",
         "gender": "Male",
         "birthday": {
             "month": 1,
@@ -2225,7 +2225,7 @@
     {
         "name": "Hazel",
         "species": "Squirrel",
-        "personality": "Sisterly (Uchi)",
+        "personality": "Sisterly",
         "gender": "Female",
         "birthday": {
             "month": 8,
@@ -2303,7 +2303,7 @@
     {
         "name": "Huck",
         "species": "Frog",
-        "personality": "Lazy (Animal Crossing)Smug (New Leaf)",
+        "personality": "Lazy",
         "gender": "Male",
         "birthday": {
             "month": 7,
@@ -2511,7 +2511,7 @@
     {
         "name": "Katt",
         "species": "Cat",
-        "personality": "Sisterly (Uchi)",
+        "personality": "Sisterly",
         "gender": "Female",
         "birthday": {
             "month": 4,
@@ -2589,7 +2589,7 @@
     {
         "name": "Kidd",
         "species": "Goat",
-        "personality": "Lazy*  Smug*",
+        "personality": "Lazy",
         "gender": "Male",
         "birthday": {
             "month": 6,
@@ -2706,7 +2706,7 @@
     {
         "name": "Leopold",
         "species": "Lion",
-        "personality": "Jock (DnM to DnMe+)Smug (New Leaf onwards)",
+        "personality": "Jock",
         "gender": "Male",
         "birthday": {
             "month": 8,
@@ -3109,7 +3109,7 @@
     {
         "name": "Mira",
         "species": "Rabbit",
-        "personality": "Sisterly (Uchi)",
+        "personality": "Sisterly",
         "gender": "Female",
         "birthday": {
             "month": 7,
@@ -3226,7 +3226,7 @@
     {
         "name": "Muffy",
         "species": "Sheep",
-        "personality": "Sisterly (Uchi)",
+        "personality": "Sisterly",
         "gender": "Female",
         "birthday": {
             "month": 2,
@@ -3330,7 +3330,7 @@
     {
         "name": "O'Hare",
         "species": "Rabbit",
-        "personality": "Cranky (Animal Crossing)Smug (New Leaf)",
+        "personality": "Cranky",
         "gender": "Male",
         "birthday": {
             "month": 7,
@@ -3473,7 +3473,7 @@
     {
         "name": "Pashmina",
         "species": "Goat",
-        "personality": "Sisterly (Uchi)",
+        "personality": "Sisterly",
         "gender": "Female",
         "birthday": {
             "month": 12,
@@ -3512,7 +3512,7 @@
     {
         "name": "Paula",
         "species": "Bear",
-        "personality": "Peppy*Sisterly (Uchi)*",
+        "personality": "Peppy",
         "gender": "Female",
         "birthday": {
             "month": 3,
@@ -3642,7 +3642,7 @@
     {
         "name": "Phoebe",
         "species": "Ostrich",
-        "personality": "Sisterly (Uchi)",
+        "personality": "Sisterly",
         "gender": "Female",
         "birthday": {
             "month": 4,
@@ -3720,7 +3720,7 @@
     {
         "name": "Plucky",
         "species": "Chicken",
-        "personality": "Peppy (Animal Crossing) Sisterly (Uchi) (Animal Crossing: New Leaf - Welcome amiibo)",
+        "personality": "Peppy",
         "gender": "Female",
         "birthday": {
             "month": 10,
@@ -3928,7 +3928,7 @@
     {
         "name": "Reneigh",
         "species": "Horse",
-        "personality": "Sisterly (Uchi)",
+        "personality": "Sisterly",
         "gender": "Female",
         "birthday": {
             "month": 6,
@@ -3941,7 +3941,7 @@
     {
         "name": "Renée",
         "species": "Rhino",
-        "personality": "Sisterly (Uchi)",
+        "personality": "Sisterly",
         "gender": "Female",
         "birthday": {
             "month": 5,
@@ -4071,7 +4071,7 @@
     {
         "name": "Rocket",
         "species": "Gorilla",
-        "personality": "Sisterly (Uchi)",
+        "personality": "Sisterly",
         "gender": "Female",
         "birthday": {
             "month": 4,
@@ -4188,7 +4188,7 @@
     {
         "name": "Rowan",
         "species": "Tiger",
-        "personality": "Cranky (Animal Crossing)Jock (Wild World onwards)",
+        "personality": "Cranky",
         "gender": "Male",
         "birthday": {
             "month": 8,
@@ -4292,7 +4292,7 @@
     {
         "name": "Shari",
         "species": "Monkey",
-        "personality": "Sisterly (Uchi)",
+        "personality": "Sisterly",
         "gender": "Female",
         "birthday": {
             "month": 4,
@@ -4591,7 +4591,7 @@
     {
         "name": "Sylvia",
         "species": "Kangaroo",
-        "personality": "Snooty (Doubutsu no Mori e+)Sisterly (Uchi) (Animal Crossing: New Leaf)",
+        "personality": "Snooty",
         "gender": "Female",
         "birthday": {
             "month": 5,
@@ -4604,7 +4604,7 @@
     {
         "name": "T-Bone",
         "species": "Bull",
-        "personality": "Lazy (Animal Crossing)Cranky (New Leaf onwards)",
+        "personality": "Lazy",
         "gender": "Male",
         "birthday": {
             "month": 5,
@@ -4656,7 +4656,7 @@
     {
         "name": "Tammy",
         "species": "Cub",
-        "personality": "Sisterly (Uchi)",
+        "personality": "Sisterly",
         "gender": "Female",
         "birthday": {
             "month": 6,
@@ -4877,7 +4877,7 @@
     {
         "name": "Ursala",
         "species": "Bear",
-        "personality": "Snooty (Animal Crossing) Sisterly (Uchi) (Animal Crossing: New Leaf)",
+        "personality": "Snooty",
         "gender": "Female",
         "birthday": {
             "month": 1,
@@ -4942,7 +4942,7 @@
     {
         "name": "Violet",
         "species": "Gorilla",
-        "personality": "Peppy (Animal Forest e+)Snooty (City Folk onwards)",
+        "personality": "Peppy",
         "gender": "Female",
         "birthday": {
             "month": 9,
